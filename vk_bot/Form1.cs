@@ -55,7 +55,7 @@ namespace vk_bot
                 XmlNode LastName = user.SelectSingleNode("last_name");
                 labelLastName.Text = LastName.InnerText;
 
-                userId = user.SelectSingleNode("userId").InnerText;
+                userId = user.SelectSingleNode("id").InnerText;
               //XmlNode user_id = ;
                //labeluser_id.Text = user_id.InnerText;
 
@@ -71,6 +71,11 @@ namespace vk_bot
             frm.Access_token = access_token;
             frm.userId = userId;
             frm.Show();
+        }
+
+        private void spam_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -82,6 +82,7 @@
             this.spam.TabIndex = 4;
             this.spam.Text = "Спам";
             this.spam.UseVisualStyleBackColor = true;
+            this.spam.Click += new System.EventHandler(this.spam_Click);
             // 
             // delete_wall_post
             // 
