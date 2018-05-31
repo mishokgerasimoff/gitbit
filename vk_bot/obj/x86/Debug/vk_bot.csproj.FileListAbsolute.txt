@@ -36,3 +36,13 @@ C:\Documents and Settings\Администратор\Мои документы\g
 C:\Documents and Settings\Администратор\Мои документы\gitbit-master\vk_bot\obj\x86\Debug\vk_bot.Properties.Resources.resources
 C:\Documents and Settings\Администратор\Мои документы\gitbit-master\vk_bot\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Documents and Settings\Администратор\Мои документы\gitbit-master\vk_bot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\vk_bot.exe
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\vk_bot.pdb
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\bin\Debug\vk_bot.exe
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\bin\Debug\vk_bot.pdb
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\vk_bot._123.resources
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\vk_bot.Form1.resources
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\vk_bot.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Downloads\gitbit-master\vk_bot\obj\x86\Debug\GenerateResource.write.1.tlog
