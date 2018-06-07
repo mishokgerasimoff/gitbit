@@ -69,7 +69,7 @@ namespace vk_bot
                     XmlDocument doc3 = new XmlDocument();
                     doc3.Load("https://api.vk.com/method/groups.getById.xml?group_id="+textBox2.Text+"&access_token="+Access_token+"&v=5.52");
                     XmlNode response2 = doc3.SelectSingleNode("response");
-                    XmlNode group = response2.SelectSingleNode("group");
+                        XmlNode group = response2.SelectSingleNode("group");
                     XmlNode id = group.SelectSingleNode("id");
                     System.Threading.Thread.Sleep(400);
                     XmlDocument doc1 = new XmlDocument();
